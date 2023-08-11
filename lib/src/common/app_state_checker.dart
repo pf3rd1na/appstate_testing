@@ -18,8 +18,6 @@ class AppStateChecker {
   static String url = '';
 
   static Future<AppState> getState() async {
-    await PrefsManager.clearPrefs(); // REMOVE BEFORE RELEASE
-
     final hasInternet = await _checkInternetConnectivity();
 
     if (!hasInternet) {
