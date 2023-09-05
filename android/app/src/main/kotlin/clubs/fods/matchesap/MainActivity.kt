@@ -1,4 +1,4 @@
-package com.example.flutter_sport_news
+package clubs.fods.matchesap
 
 import io.flutter.embedding.android.FlutterActivity
 

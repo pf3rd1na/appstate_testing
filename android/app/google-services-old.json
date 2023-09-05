@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546566380720",
+    "project_id": "flutter-pet-proj",
+    "storage_bucket": "flutter-pet-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546566380720:android:7f004c2081737d17442f75",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sport_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546566380720-b56so3orf61kgc2ojj4o9etha3iml0k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMN9mGXIw0Kn2mJyVvd0tvWvdMoz_ixL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546566380720-b56so3orf61kgc2ojj4o9etha3iml0k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

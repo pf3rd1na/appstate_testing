@@ -3,7 +3,7 @@ import 'article.dart';
 class NewsListModel {
   final String status;
   final int totalResults;
-  final List<Articles> articles;
+  final List<Article> articles;
 
   NewsListModel({
     required this.status,
@@ -14,7 +14,7 @@ class NewsListModel {
   factory NewsListModel.fromJson(Map<String, dynamic> json) => NewsListModel(
         status: json["status"],
         totalResults: json["totalResults"],
-        articles: List<Articles>.from(
-            json["articles"].map((a) => Articles.fromJson(a))),
+        articles: List<Article>.from(
+            json["articles"].map((a) => Article.fromJson(a))),
       );
 }

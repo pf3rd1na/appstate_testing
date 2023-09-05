@@ -1,4 +1,4 @@
-class Articles {
+class Article {
   final Source source;
   final String? author;
   final String title;
@@ -8,7 +8,7 @@ class Articles {
   final String publishedAt;
   final String? content;
 
-  Articles({
+  Article({
     required this.source,
     required this.author,
     required this.title,
@@ -19,8 +19,8 @@ class Articles {
     required this.content,
   });
 
-  factory Articles.fromJson(Map<String, dynamic> json) {
-    return Articles(
+  factory Article.fromJson(Map<String, dynamic> json) {
+    return Article(
       source: Source.fromJson(json['source']),
       author: json['author'],
       title: json['title'],

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "546566380720",
-    "project_id": "flutter-pet-proj",
-    "storage_bucket": "flutter-pet-proj.appspot.com"
+    "project_number": "1036646248978",
+    "project_id": "clubsfodsmatchesap",
+    "storage_bucket": "clubsfodsmatchesap.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:546566380720:android:7f004c2081737d17442f75",
+        "mobilesdk_app_id": "1:1036646248978:android:ef98c27ad276cb522b1ecb",
         "android_client_info": {
-          "package_name": "com.example.flutter_sport_news"
+          "package_name": "clubs.fods.matchesap"
         }
       },
       "oauth_client": [
         {
-          "client_id": "546566380720-b56so3orf61kgc2ojj4o9etha3iml0k1.apps.googleusercontent.com",
+          "client_id": "1036646248978-7hlb83868iu5p37j3bq93e1g4e65bui1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCMN9mGXIw0Kn2mJyVvd0tvWvdMoz_ixL8"
+          "current_key": "AIzaSyCTVafzyV-UXx3sGM9gOdlZXEu_joXwuKo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "546566380720-b56so3orf61kgc2ojj4o9etha3iml0k1.apps.googleusercontent.com",
+              "client_id": "1036646248978-7hlb83868iu5p37j3bq93e1g4e65bui1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
